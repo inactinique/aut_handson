@@ -154,8 +154,10 @@ cython_debug/
 # data
 
 data/
+generated
 
 #Bloody macOS
 
 .DS_Store
+
 
